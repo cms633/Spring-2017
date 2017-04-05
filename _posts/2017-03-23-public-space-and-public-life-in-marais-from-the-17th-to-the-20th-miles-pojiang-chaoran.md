@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 category: updates
 title: >-
   Public Space and Public Life in Marais (From the 17th to the
